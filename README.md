@@ -1,4 +1,4 @@
-![E2E Tests](https://github.com/<your-username>/<your-repo>/actions/workflows/ci.yml/badge.svg)
+![E2E Tests](https://github.com/Roman177-png/playwright-saucedemo-restful-booker/actions/workflows/ci.yml/badge.svg)
 
 # SauceDemo + Restful Booker E2E Suite
 
