@@ -1,0 +1,17 @@
+node_modules/
+dist/
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+playwright/.auth/
+
+# env
+.env
+
+# editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
